@@ -38,9 +38,8 @@ Welcome to my GitHub! I'm a passionate software engineer currently studying in N
 
 ## 📚 Projects
 
-### 🌐 Web Development (MERN Stack)
+### 🌐 Web Development (MERN Stack) - [Link](https://desserts.wdcc.co.nz/)
 - **University of Auckland Desert Society Website**: Created a user-friendly and accessible website using React, Node, and Tailwind for the University of Auckland Dessert Society🍩.
-- [Here!](https://desserts.wdcc.co.nz/)
 
 ### 🎮 Game Development (Java)
 - **Museum Thief Investigation**: A game where players uncover clues and solve a mystery in a museum setting.
