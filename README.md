@@ -30,29 +30,19 @@ Welcome to my GitHub! I'm a passionate software engineer currently studying in N
 ### 🧰 Tools I Use:
 - Git & GitHub
 - Visual Studio Code
-- IntelliJ IDEA
-- Docker
+- WSL
 
 ### 🌱 Currently Learning:
 - Machine Learning (Python, TensorFlow)
-- TypeScript
+- Website Development (Mern Stack)
 
 ## 📚 Projects
 
-### 🎮 Game Development (JavaFX)
-- **Museum Thief Investigation**: A game where players uncover clues and solve a mystery in a museum setting.
-
-### 🌍 Environmental Initiatives
-- **Data Pipeline for Recycling Insights**: A data-driven tool to visualize recycling patterns and insights for better decision-making.
-
 ### 🌐 Web Development (MERN Stack)
-- **University of Auckland Desert Society Website**: Created a user-friendly and accessible website using React, Node, and Tailwind.
+- **University of Auckland Desert Society Website**: Created a user-friendly and accessible website using React, Node, and Tailwind for the University of Auckland Dessert Society🍩.
 
-## 📈 GitHub Stats
-<!-- GitHub Stats Card -->
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-<!-- Top Languages Card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+### 🎮 Game Development (Java)
+- **Museum Thief Investigation**: A game where players uncover clues and solve a mystery in a museum setting.
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/nicholaswww/)
