@@ -38,8 +38,8 @@ Welcome to my GitHub! I'm a passionate software engineer currently studying in N
 
 ## 📚 Projects
 
-### 🃏 Beating the Casino
-- **Working on training a machine learning model to optimise casino betting on Blackjack (21), and using it to train humans for real world card counting applications to make a profit.
+### 🃏 Beating the Casino (Python)
+- **Blacjack machine learning**: Working on training a machine learning model to optimise casino betting on Blackjack (21), and using it to train humans for real world card counting applications to make a profit.
 
 ### 🌐 Web Development (MERN Stack) - [Link](https://desserts.wdcc.co.nz/)
 - **University of Auckland Desert Society Website**: Created a user-friendly and accessible website using React, Node, and Tailwind for the University of Auckland Dessert Society🍩.
