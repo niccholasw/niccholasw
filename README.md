@@ -42,7 +42,7 @@ Welcome to my GitHub! I'm a passionate software engineer currently studying in N
 ### 🌱 Currently Learning:
 
 - Machine Learning (Python, TensorFlow)
-- Website Development (Mern Stack)
+- Website Development (MERN Stack, Laravel)
 
 ## 📚 Projects
 
