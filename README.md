@@ -3,7 +3,9 @@
 Welcome to my GitHub! I'm a passionate software engineer currently studying in New Zealand. I love solving problems, building projects, and learning new technologies. Here's a bit about me:
 
 ## 🛠 Tech Stack
+
 ### Languages & Tools:
+
 <p align="left">
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -14,7 +16,7 @@ Welcome to my GitHub! I'm a passionate software engineer currently studying in N
   <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <!-- Laravel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="Laravel.svg.svg" alt="Laravel" width="40" height="40"/>
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <!-- React -->
@@ -32,26 +34,31 @@ Welcome to my GitHub! I'm a passionate software engineer currently studying in N
 </p>
 
 ### 🧰 Tools I Use:
+
 - Git & GitHub
 - Visual Studio Code
 - WSL
 
 ### 🌱 Currently Learning:
+
 - Machine Learning (Python, TensorFlow)
 - Website Development (Mern Stack)
 
 ## 📚 Projects
 
 ### 🃏 Beating the Casino (Python)
+
 - **Blacjack machine learning**: Working on training a machine learning model to optimise casino betting on Blackjack (21), and using it to train humans for real world card counting applications to make a profit.
 
 ### 🌐 Web Development (MERN Stack) - [Link](https://desserts.wdcc.co.nz/)
+
 - **University of Auckland Desert Society Website**: Created a user-friendly and accessible website using React, Node, and Tailwind for the University of Auckland Dessert Society🍩.
 
 ### 🎮 Game Development (Java)
+
 - **Museum Thief Investigation**: A game where players uncover clues and solve a mystery in a museum setting.
 
 ## 📫 How to reach me:
+
 - [LinkedIn](https://www.linkedin.com/in/nicholaswww/)
 - [Email](mailto:nwilson34538@gmail.com)
-
