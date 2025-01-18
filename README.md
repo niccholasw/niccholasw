@@ -36,6 +36,14 @@ Welcome to my GitHub! I'm a passionate software engineer currently studying in N
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
+## 📈 GitHub Stats
+
+![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=niccholasw&show_icons=true&theme=dracula)
+
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niccholasw&layout=compact&theme=dracula)
+
 ### 🧰 Tools I Use:
 
 - Git & GitHub
