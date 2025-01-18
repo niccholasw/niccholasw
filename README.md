@@ -64,4 +64,3 @@ Welcome to my GitHub! I'm a passionate software engineer currently studying in N
 ## 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/nicholaswww/)
-- [Email](mailto:nwilson34538@gmail.com)
