@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Nick Wilson
 
-https://niccholasw.cloud/
-
 Welcome to my GitHub! I'm a passionate software engineer currently studying in New Zealand. I love solving problems, building projects, and learning new technologies. Here's a bit about me:
 
 
